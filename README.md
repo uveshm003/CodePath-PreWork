@@ -10,16 +10,16 @@ Time spent: **0.5** hours spent in total
 
 The following **required** functionality is completed:
 
-* [https://github.com/uveshm003/Java-Programs/blob/main/image.png ] Image and introductory message displayed on screen
-* [https://github.com/uveshm003/Java-Programs/blob/main/image2.png ] Button displayed on screen
-* [https://github.com/uveshm003/Java-Programs/blob/main/image2.png ] Toast with message appears when button is pressed 
+*<img src="https://github.com/uveshm003/Java-Programs/blob/main/image.png" style=" width:250px ; height:400px "  >  &nbsp;&nbsp;&nbsp; Image and introductory message displayed on screen
+*<img src="https://github.com/uveshm003/Java-Programs/blob/main/image.png" style=" width:250px ; height:400px "  > &nbsp;&nbsp; &nbsp;Button displayed on screen
+* <img src="https://github.com/uveshm003/Java-Programs/blob/main/image2.png" style=" width:250px ; height:400px "  > Toast with message appears when button is pressed 
 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/uveshm003/Java-Programs/blob/main/Pre-Work-Recording.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://youtu.be/cz23ZTVEfhw' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Screen to Gif 
